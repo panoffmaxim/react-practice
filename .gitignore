@@ -21,3 +21,15 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# binaries
+bin/
+dist/
+lib/
+
+# editors
+*.swp
+.idea/
+.vs/
+.vscode/
+.DS_Store
